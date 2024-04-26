@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 22 11:40:09 2020
+Created on Apr 12 2024
 
-@author: Mansi
+@author: Rojan
 """
 import pygame
 import game_config as gc

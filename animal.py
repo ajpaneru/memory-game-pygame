@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 22 11:40:09 2020
-
-@author: Mansi
-"""
 import random
 import os
 import game_config as gc
